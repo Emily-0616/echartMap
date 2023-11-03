@@ -15,6 +15,9 @@
   "dependencies": {
     "@amap/amap-jsapi-loader": "^1.0.1",
     "@amap/amap-jsapi-types": "^0.0.13",
+    "@tanstack/vue-query": "^5.4.3",
+    "@vueuse/core": "^10.5.0",
+    "axios": "^1.6.0",
     "echarts": "^5.4.3",
     "echarts-extension-amap": "^1.11.0",
     "pinia": "^2.1.7",
